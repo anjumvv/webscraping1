@@ -1,0 +1,75 @@
+desc,duration,title
+" Python, sklearn, Tensorflow, Keras, Numpy, Pandas, Scipy, Scikit, Machine Learning, Deep Learning
+                                         Neural Networks, CNN, RNN, LSTM, Gradient Search, Stochastic Gradient Descent,
+                                         Backpropagation, Computer Vision, Image Classification, Natural Language processing (NLP),
+                                         Optical Character recognition (OCR), Hand written letter recognition, Face Detection,
+                                         Human action detection, Chatbot, Speech to Text Conversion,
+                                         Hadoop, HBase, Pig, Hive, Oozie, Sqoop, Flume, Big data Analytics,
+                                         Django, Matplotlib, Seaborn, Bokhe, Git, Linux Shell Scripts and Commands,
+                                        Cloud computing, AWS Hosting and Deployment, Server-less Lambda, 
+                                        Micro-Services, Docker, Kubernetes, Project.
+                                        ", Duration:  5 to 6 Months,Artificial Intelligence Engineer with Big Data and Cloud Computing
+"Java, Apache Hadoop, HDFS, Map Reduce, SQL, MySQL, Data Ware House,
+                                        HBase, Pig, Hive, Oozie, Sqoop, Flume, 
+                                        Zookeeper, Scala, Spark, Spark-SQL, Spark-Streaming, Spark-ML, Machine Learning,
+                                        Regressions, (Linear, Multi-Linear, Logistic), Clustering, K-Mean, KNN, NaiveBayes, 
+                                        Classification, Decision Trees, Random Forest,
+                                        Mahout, Recommendation, Storm, Flink, Samza, SAMOA, Apex, Beam, Tez,
+                                        Cloud Computing, AWS Hosting and Deployment, EC2, IAM, LSB, Load Balancer (LBS),
+                                        Availability Group, Security Configuration, Server-less Lambda, Micro-Services,
+                                        Junit, Git, Maven, Linux Commands and Shell Scripts,
+                                        Docker, Kubernetes, Project. 
+                                    ", Duration: 5 to 6 Months,Big Data Analytics Implementation Expert (Hadoop)
+" Java, Scala, Hadoop, HDFS, MapReduce, HBase, Hive, Pig, Sqoop, Flume, SQL, MySQL, 
+                                        Data Ware house, Star and Snowflake, Dimensions and Facts,
+                                        Python, PySpark, Apache Spark, Spark-SQL, Spark-Streaming, Spark-MLib,
+                                        Machine Learning, Regressions, (Linear, Multi-Linear, Logistic), Clustering, 
+                                        K-Mean, KNN, NaiveBayes, Classification, Decision Trees, Random Forest 
+                                        Spark-GraphX, Zookeeper, Kafka, Akka, Spring Framework, Spring Boot, Spring MVC, 
+                                        Spring Security, Spring Boot, Spring Flux, Thymeleaf templates, 
+                                        Cloud computing, AWS Hosting & Deployment, EC2, IAM, LSB, Load Balancer (LBS),
+                                        Availability Group, Security Configuration, Server-less Lambda, Micro-Services,
+                                        Docker, Kubernetes, Git, Maven, Linux Commands and Shell Scripts, Project.
+                                        Project ", Duration: 8 Months,BigData Prodcut Development Expert
+"HTML, CSS3, Sass, Bootstrap, Webpack, JavaScript, Advanced JavaScript,
+                                        TypeScript, Web Technology, Angular (latest), Pipes, Converters,
+                                        Custom Pipes, Custom Converters, Component to Component Interactions,
+                                        NodeJS, Domain, Buffers, Client-Server, File System, Process,
+                                        Express, JSON Web token, Passport,
+                                        Loopback, SQL, MySQL, MongoDB, Data Replication, Sharding, Indexing,
+                                    Data Pipeline, Aggregations, D3.js, HAProxy, Apache Web Server Installation and
+                                    Configuration, NginX, Nodejs Deployment, AWS Hosting and deployment, Micro-Services,
+                                    Server-Less Lambda, Docker, Kubernetes Git, Linux Shell scripts, Project.
+                                ", Duration: 5 to 6 Months,Angular with MEAN Stack Web Development and Data Analytics
+" HTML, CSS, Saas, Bootstrap, JavaScript, Adavanced JavaScirpt, TypeScript,
+                                        Java8, Servlet, JSP, EJB, Filters, Session Listener, Clustering,
+                                        Web services, SOAP, Wildfly, Tomcat, 
+                                        JPA, JAX-WS, JAX-RS, Spring (Core, MVC, REST, Data, Boot and Security), 
+                                        Webpack, Angular, JSON Web Token, AWS Cloud computing, 
+                                        AWS Hosting and Deployment, EC2, ESB,
+                                        Elastic Load Balancers (ELB), Availability Groups, Security Configuration,
+                                        Microservices, Server-less Lambda, Docker, Kubernetes, SQL, MySQL, MongoDB", Duration: 5 Months,Enterprise Application Implementation Expert
+"Java8, Servlet, JSP, EJB, JPA, JAX-WS, JAX-RS, Spring ( Core, MVC, REST, Data, Batch,
+                                        Boot and Security), Apache Camel, Pentaho Kettle, Apache Mule, Active MQ,
+                                        Kafka, Akka, AWS Cloud computing, AWS Hosting and Deployment, EC2, ESB,
+                                        Elastic Load Balancers (ELB), Availability Groups, Security Configuration,
+                                        Microservices, Server-less Lambda, Docker, Kubernetes,
+                                        Junit, Git, Linux Commands, Linux Shell Scripts, Project.
+                                    ", Duration: 5 Months,Enterprise Application Integration Expert
+"Java8, Servlet, JSP, EJB, JPA, JAX-WS, JAX-RS, Citrus, Gauge, Restassured,
+                                        Selenium Web Driver, AWS Hosting and Deployment, EC2, ESB,
+                                        Elastic Load Balancers (ELB), Availability Groups, Security Configuration,
+                                        Microservices, Server-less Lambda, Docker, Kubernetes, Linux Shell Commands,
+                                        Linux Shell Scripts, Git, Maven, Project.
+                                    ", Duration: 5 Months,Test Automation Developer Expert
+"HTML, CSS, SaaS, JavaScript, Advanced JavaScript, Bootstrap, Nodejs,
+                                        TypeScript, Object Oriented Programming, Design Principles,
+                                        Webpack, JSON Web token, REST, AJAX,
+                                        Angular (Latest), Ionic, Cordova, Hybrid Android and IOS", Duration: 5 Months,Mobile Web Application Expert
+"AWS Cloud, EC2, Instance Types, Regions and Zones, VPS, S3, Glacier, IAM
+                                        Security Configuration, Users, Groups, Key Pairs,
+                                        Availability Group, Load Balancing, Policies,
+                                        Staring and Stoping servers, Snap Shots, Pricing,
+                                        Backup and Restore, RDS, Dynamo, Server-less Lambda,
+                                        Docker, Kubernetes.
+                                    ", Duration: 5 Months,AWS Cloud Expert
