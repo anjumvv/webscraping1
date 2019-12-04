@@ -19,5 +19,4 @@ class ExpertzlabSpider(scrapy.Spider):
             item['desc'] = course.p.text
             item['duration']  = course.ul.li.text
 
-
             yield item
